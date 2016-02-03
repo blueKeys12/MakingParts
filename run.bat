@@ -1,0 +1,1 @@
+@perl -w components.pl manufacture.txt inventory.txt machines.txt commands.txt
